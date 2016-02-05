@@ -1,7 +1,7 @@
 # Data-Scientist-s-Toolbox-Quiz-
 Week 1 Solution to Quiz
  
-1.) Which of the following are courses in the Data Science Specialization? Select all that apply.
+         1.) Which of the following are courses in the Data Science Specialization? Select all that apply.
 
 a.)Python Programming   
 
@@ -13,7 +13,7 @@ d.)Exploratory Data Analysis     -Right Answer
 
 
 
-2.) Why are we using R for the course track? Select all that apply.
+         2.) Why are we using R for the course track? Select all that apply.
 
 a.)R has a large number of add on packages that are useful for data analysis.          -Right Answer
 
@@ -27,7 +27,7 @@ e.)R has a nice IDE, Rstudio.                                                   
 
 
 
-3.) What are good ways to find answers to questions in this course track? Select all that apply.
+         3.) What are good ways to find answers to questions in this course track? Select all that apply.
 
 a.)Searching Google.                                      -Right Answer
 
@@ -38,7 +38,7 @@ c.)Posting homework assignments to mailing lists
 d.)Emailing the community TAs
 
 
-4.) What are characteristics of good questions on the message boards? Select all that apply.
+         4.) What are characteristics of good questions on the message boards? Select all that apply.
 
 a.)Provides the minimum amount of information necessary to communicate the problem.          -Right Answer
 
@@ -53,7 +53,7 @@ e.)Begs for help without providing information.
 f.)Assumes that you've discovered a bug in R.
 
 
-5.) Which of the following packages provides machine learning functionality? Select all that apply
+         5.) Which of the following packages provides machine learning functionality? Select all that apply
 
 a.)pamr                    -Right Answer
 
